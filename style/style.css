@@ -120,6 +120,7 @@ body {
   display: inline-block;
   max-width: 70%;
   max-height: 10%;
+  margin-top: -20px;
 }
 
 .six .hat {
